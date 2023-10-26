@@ -37,6 +37,8 @@ https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 https://xabarintv-r2-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://i.imgur.com/KgbNv4G.png" group-title="Kids",TVG Infantil
 https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-logo="https://i.imgur.com/34Vcc7u.png" group-title="Arabic;Kids",Gulli Bil Arabi 
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 #EXTINF:-1 tvg-id="TVGMocinos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Kids",TVG Mocinos
 https://xabarintv-r3-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGPequerrechos.es" tvg-logo="https://i.imgur.com/rS9i9RL.png" group-title="Kids",TVG Pequerrechos
